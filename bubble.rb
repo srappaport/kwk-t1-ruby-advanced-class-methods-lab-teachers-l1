@@ -23,5 +23,7 @@ elsif sequence[i] > sequence[i+1]
 end
 end
 
+result = sequence
+
 #puts "Final result: #{result}"
 puts "Swaps: #{swaps}"
