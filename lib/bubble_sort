@@ -7,6 +7,7 @@ swaps = 0
 #if swap, return to beginning
 
 i = 0
+if
 
 puts "Final result: #{result}"
 puts "Swaps: #{swaps}"
