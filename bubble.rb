@@ -8,7 +8,7 @@ swaps = 0
 
 i = 0
 
-while i < 4
+while i < sequence.size-1
 if sequence[i] < sequence[i+1]
   i +=1
   puts sequence
