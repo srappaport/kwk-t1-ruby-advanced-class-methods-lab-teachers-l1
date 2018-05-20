@@ -14,15 +14,13 @@ if sequence[i] < sequence[i+1]
   puts sequence
 elsif sequence[i] > sequence[i+1]
   a=sequence[i]
-  b=sequenc[i+1]
+  b=sequence[i+1]
   sequence[i] = b
   sequence[i+1] =a
   i = 0
   puts sequence
 end
-end 
+end
 
 puts "Final result: #{result}"
 puts "Swaps: #{swaps}"
-
-
