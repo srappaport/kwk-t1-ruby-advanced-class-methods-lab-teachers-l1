@@ -12,7 +12,7 @@ while i < sequence.size-1
 if sequence[i] < sequence[i+1]
   i +=1
   puts sequence
-elsif sequence[i] > sequence[i+1]
+else #sequence[i] > sequence[i+1]
   a=sequence[i]
   b=sequence[i+1]
   sequence[i] = b
