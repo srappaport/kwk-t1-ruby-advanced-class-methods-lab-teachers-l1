@@ -18,6 +18,7 @@ elsif sequence[i] > sequence[i+1]
   sequence[i] = b
   sequence[i+1] =a
   i = 0
+  swap += 1
   puts sequence
 end
 end
