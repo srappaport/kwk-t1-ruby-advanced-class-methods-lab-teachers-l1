@@ -1,4 +1,4 @@
-sequence = [4, 3, 5, 0, 1]
+sequence = [5, 3, 6, 7, 0, 1]
 swaps = 0
 
 # Your Code Here
