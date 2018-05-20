@@ -1,0 +1,12 @@
+sequence = [4, 3, 5, 0, 1]
+swaps = 0
+
+# Your Code Here
+# start at beginning
+#if first num and second num don't swap, incremement and try next
+#if swap, return to beginning
+
+i = 0
+
+puts "Final result: #{result}"
+puts "Swaps: #{swaps}"
