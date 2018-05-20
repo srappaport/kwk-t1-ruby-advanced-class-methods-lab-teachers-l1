@@ -20,9 +20,9 @@ elsif sequence[i] > sequence[i+1]
   i = 0
   puts sequence
 end
-  rescue ExceptionName
-    
-  end
+end 
 
 puts "Final result: #{result}"
 puts "Swaps: #{swaps}"
+
+
